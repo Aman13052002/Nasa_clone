@@ -194,6 +194,11 @@ nav{
     width: 100vw;
     background-color: #fff;
     display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.box2{
+    display: flex;
     justify-content: center;
     align-items: center;
 }
